@@ -1,4 +1,6 @@
-### Hi there 👋 My name is Luke! Hello
+### Hi there 👋 My name is Luke!
+
+I am currently learning how to use git!
 
 <!--
 **routabeta/routabeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
